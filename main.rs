@@ -1,3 +1,9 @@
+/*
+1. buka terminal
+2. jalankan perintah "cargo new nama-folder"
+3. buka folder di code editor */
+
+
 fn main() {
     println!("Hello, world!");
 }
